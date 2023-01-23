@@ -1,0 +1,36 @@
+
+span{
+    color: black;
+} 
+
+.second-text{
+    color: cornflowerblue;
+}
+.first- text{
+    background-color: blueviolet;
+}
+#test{
+    color: black;
+}
+.box1{
+
+    width: 200px;
+    height: 100px;
+    background-color: magenta
+    ;
+}
+.box2{
+
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+.box{
+    margin-top: 100px;
+    width: 500px;
+    height: 200px;
+    background-color: aqua  ;
+}
+.box.link{
+    color: blueviolet;
+}
